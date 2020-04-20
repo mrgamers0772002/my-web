@@ -1,0 +1,159 @@
+.head{
+
+background-clip: border-box ;  width: 100%;
+    height: 100px;
+    background: rgba(0,0,0,.7);
+background-attachment: fixed;
+
+
+}
+.img{
+    width: 16%;
+    height: 97px;
+    position: absolute;
+    left: 180px;
+    top:1px;
+}
+#icon2{width: 40%;
+height:80px;
+position: absolute;
+    
+    left:400px;
+    top:10px;
+    border-radius: 10%;
+}
+#log{
+    float: right;
+
+    margin: 10px;
+    border: none
+;
+    outline:none;
+    background-color:red;
+  
+    border-radius: 15%;
+
+}
+
+#log:hover{background-color: green;
+}
+
+
+
+.im{
+    width: 16%;
+    height: 97px;
+    position: absolute;
+  right: 150px;
+    top:1px;}
+.body{background-image: url(back.jpg);
+width: 100%;
+height: 1500px;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover ;
+}
+.pc{width: 100%;
+    
+height: 50px;
+background-attachment: fixed;
+
+background: rgba(100,0,0,.4);
+text-align: center;}
+.pc UL{ display: block;
+
+    padding: 0;
+
+}
+.pc ul li{width: 150px;
+    margin-right: 10px;
+    display:  inline-block; line-height:  50px;
+}
+li:hover{background-color: forestgreen;}
+a{ font-size:16px;
+    color:yellow;
+    text-decoration-color: none;
+    text-decoration: none;
+    
+    
+}
+#menu{
+    width: 10px;
+    height: 10px;
+
+}
+
+ .head  span{color: red;
+    font-size: 90px;
+     position: absolute;
+     right:30% ;
+}
+.main{
+    width: 60%;
+    height: 1200px;
+    background: rgba(0,0,0,.5);
+    position: absolute;
+    left:5%;
+    float:left;
+}
+.main2{
+    width: 30%;
+    height:1200px;
+    float:right;
+    background:rgba(0,100,0,.8);
+}
+.foot{
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 1370px;
+    background-color: black;
+}
+p{font-size:28px;
+    color: red;
+}
+H2{color: yellow;
+}
+H2:hover{
+    color: red;
+}
+.about{float: right;
+border-radius: 10%;
+    border: 2px solid red;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    position: absolute;
+    right: 30px;
+
+}
+.game{ height:300px;
+    width: 100px;
+float:left;}
+.afterstory{float:left;}
+.screenshot{float: left;
+text-align: center;
+width: 100%;}
+#download{ 
+    background-color: red;
+    border-radius: 10%;
+    border:none;
+    
+}
+#download:hover{background-color: lawngreen;}
+.screenshot img{width: 40%;
+height: 170px;
+
+margin: 5px;}
+.p{padding: 0;
+margin: 5px;
+font-size:20px;
+color:black;}
+.games:hover{background: rgba(0,0,0,.7);}
+.games img{margin: 7px;}
+
+head img{
+    width: 4px;
+    height: 5px;
+}
